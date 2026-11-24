@@ -7,7 +7,7 @@
     </linearGradient>
     <clipPath id="reveal">
       <rect x="0" y="0" width="0" height="72">
-        <animate attributeName="width" values="0;600;600;0" keyTimes="0;0.4;0.8;1" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;640;640;0" keyTimes="0;0.4;0.8;1" dur="9s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <style>
@@ -25,7 +25,7 @@
   </g>
 
   <rect x="48" y="28" width="9" height="20" fill="#22D3EE" class="blink">
-    <animate attributeName="x" values="48;648;648;48" keyTimes="0;0.4;0.8;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="48;640;640;48" keyTimes="0;0.4;0.8;1" dur="9s" repeatCount="indefinite"/>
   </rect>
 
   <rect x="0" y="71" width="1200" height="1" fill="url(#bar)" opacity="0.6"/>
