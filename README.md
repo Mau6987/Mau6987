@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="assets/hero.svg" width="100%" alt="Mau — Full Stack Developer"/>
   <img src="assets/typing.svg" width="100%" alt="aplicaciones web · apps móviles · APIs REST · dashboards · CI/CD"/>
 </div>
@@ -115,6 +115,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mau6987&bg_color=0B1730&color=38BDF8&line=22D3EE&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true&custom_title=Actividad%20de%20commits&title_color=38BDF8" alt="Actividad"/>
 </div>
 
+<!-- Serpiente: se activa cuando el workflow 'Snake' corra por primera vez
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mau6987/Mau6987/output/github-contribution-grid-snake-dark.svg"/>
@@ -122,6 +123,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
     <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/Mau6987/Mau6987/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
+-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
