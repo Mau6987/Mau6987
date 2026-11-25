@@ -103,7 +103,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau6987&layout=compact&hide_border=true&bg_color=0B1730&title_color=38BDF8&text_color=93A7C4&locale=es&hide=html,css,ejs,shell&langs_count=8&exclude_repo=mi-backendsecond,reactvolt,mi-backend,jenn-back-reac,reactvoltf" alt="Lenguajes"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau6987&layout=compact&hide_border=true&bg_color=0B1730&title_color=38BDF8&text_color=93A7C4&locale=es&hide=html,css,ejs,shell&langs_count=8&exclude_repo=mi-backendsecond,reactvolt,mi-backend,jenn-back-reac,reactvoltf&size_weight=0.5&count_weight=0.5" alt="Lenguajes"/>
 </div>
 
 <div align="center">
