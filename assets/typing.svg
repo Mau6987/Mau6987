@@ -6,7 +6,7 @@
       <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="reveal">
-      <rect x="0" y="0" width="0" height="72">
+      <rect x="0" y="0" width="640" height="72">
         <animate attributeName="width" values="0;640;640;0" keyTimes="0;0.4;0.8;1" dur="9s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
@@ -24,7 +24,7 @@
     <text x="48" y="44" class="mono" font-size="16" fill="#93C5FD"><tspan fill="#22D3EE">&gt; </tspan>aplicaciones web · apps móviles · APIs REST · dashboards · CI/CD</text>
   </g>
 
-  <rect x="48" y="28" width="9" height="20" fill="#22D3EE" class="blink">
+  <rect x="640" y="28" width="9" height="20" fill="#22D3EE" class="blink">
     <animate attributeName="x" values="48;640;640;48" keyTimes="0;0.4;0.8;1" dur="9s" repeatCount="indefinite"/>
   </rect>
 
