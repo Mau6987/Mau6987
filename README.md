@@ -67,14 +67,9 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <a href="https://github.com/Mau6987/movil-back-pos">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=movil-back-pos&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="movil-back-pos"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Mau6987/modulo2CRUD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=modulo2CRUD&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="modulo2CRUD"/>
       </a>
     </td>
   </tr>
@@ -88,37 +83,15 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 | **[frontendSistemaIntegrado](https://github.com/Mau6987/frontendSistemaIntegrado)** | SPA de sistema integrado con reportes y soporte instalable | React, Vite, MUI, Bootstrap, PWA, jsPDF |
 | **[tienda-militar-front](https://github.com/Mau6987/tienda-militar-front) + [back](https://github.com/Mau6987/tienda-militar-back)** | Sistema de inventario con autenticación y panel de métricas | Next.js, Tailwind, Express, Prisma, JWT |
 | **[movil-back-pos](https://github.com/Mau6987/movil-back-pos)** | API de punto de venta con validación estricta y hardening | TypeScript, Express, Prisma, Zod, Helmet |
-| **[modulo2CRUD](https://github.com/Mau6987/modulo2CRUD)** | CRUD empresarial con pruebas unitarias | Angular 20, TypeScript, RxJS, Karma |
-| **[portafolio-arcani-junior](https://github.com/Mau6987/portafolio-arcani-junior)** | Portafolio personal desplegado en Vercel | Next.js, Tailwind, shadcn/ui, Framer Motion |
-
-> Selección por completitud: commits activos, README, paginación/roles, pruebas y despliegue.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## ◆ métricas
+## ◆ enfoque
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mau6987&show_icons=true&hide_border=true&bg_color=0B1730&title_color=38BDF8&icon_color=22D3EE&text_color=93A7C4&count_private=true&locale=es&hide_rank=true" alt="Estadísticas"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Mau6987&hide_border=true&background=0B1730&ring=38BDF8&fire=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=93A7C4&dates=64748B&locale=es" alt="Racha"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau6987&layout=compact&hide_border=true&bg_color=0B1730&title_color=38BDF8&text_color=93A7C4&locale=es&hide=html,css,ejs,shell&langs_count=8&exclude_repo=mi-backendsecond,reactvolt,mi-backend,jenn-back-reac,reactvoltf&size_weight=0.5&count_weight=0.5" alt="Lenguajes"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mau6987&bg_color=0B1730&color=38BDF8&line=22D3EE&point=FFFFFF&area_color=1E3A8A&area=true&hide_border=true&custom_title=Actividad%20de%20commits&title_color=38BDF8" alt="Actividad"/>
-</div>
-
-<!-- Serpiente: se activa cuando el workflow 'Snake' corra por primera vez
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mau6987/Mau6987/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mau6987/Mau6987/output/github-contribution-grid-snake.svg"/>
-    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/Mau6987/Mau6987/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
--->
+- **Producto completo** — modelo de datos, API, interfaz y despliegue en un solo flujo.
+- **Tipado y validación** — TypeScript estricto, Zod y contratos claros entre capas.
+- **Seguridad** — JWT, Helmet, control de roles y secretos fuera del repositorio.
+- **Automatización** — Docker, GitHub Actions y entornos reproducibles.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -141,8 +114,6 @@ Parte de mi trabajo está en repositorios privados de clientes y equipos: dashbo
 -->
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mau6987&color=0EA5E9&style=for-the-badge&label=VISITAS" alt="Visitas"/>
 
 *Abierto a colaborar en productos web y móviles de punta a punta.*
 
