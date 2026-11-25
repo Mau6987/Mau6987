@@ -38,7 +38,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## ◆ proyectos más completos
+## ◆ proyectos
 
 <div align="center">
 <table>
@@ -97,7 +97,11 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 
 ## ◆ proyectos privados
 
-Parte de mi trabajo está en repositorios privados de clientes y equipos: dashboards operativos, sistemas de inventario/ERP, apps móviles de campo con geolocalización y automatizaciones con **n8n**. Stack habitual: **NestJS, Express, Prisma, PostgreSQL, React/Next.js y React Native**.
+Buena parte de mi trabajo vive en repositorios privados:
+
+- **RutaCheck** — panel de supervisión de visitadores farmacéuticos: KPIs, GPS en vivo, historial de rutas, turnos y alertas antifraude. **React, TanStack Router/Query, Tailwind, Leaflet, NestJS, PostgreSQL.**
+- **Automatización de pedidos** para una cadena de farmacias: API **NestJS** que expone PostgREST sobre **PostgreSQL** y dispara webhooks a **n8n**, con JWT y Docker.
+- Sistemas de inventario/ERP, apps de campo con geolocalización y dashboards operativos con **React Native, Prisma y GitHub Actions**.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
