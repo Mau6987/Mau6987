@@ -5,12 +5,7 @@
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-0B1730?style=for-the-badge&logo=typescript&logoColor=38BDF8)](#)
-[![React](https://img.shields.io/badge/React-0B1730?style=for-the-badge&logo=react&logoColor=38BDF8)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-0B1730?style=for-the-badge&logo=next.js&logoColor=38BDF8)](#)
-[![NestJS](https://img.shields.io/badge/NestJS-0B1730?style=for-the-badge&logo=nestjs&logoColor=38BDF8)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1730?style=for-the-badge&logo=postgresql&logoColor=38BDF8)](#)
-[![Docker](https://img.shields.io/badge/Docker-0B1730?style=for-the-badge&logo=docker&logoColor=38BDF8)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0B1730?style=for-the-badge&logo=typescript&logoColor=38BDF8)](#) [![React](https://img.shields.io/badge/React-0B1730?style=for-the-badge&logo=react&logoColor=38BDF8)](#) [![Next.js](https://img.shields.io/badge/Next.js-0B1730?style=for-the-badge&logo=next.js&logoColor=38BDF8)](#) [![NestJS](https://img.shields.io/badge/NestJS-0B1730?style=for-the-badge&logo=nestjs&logoColor=38BDF8)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1730?style=for-the-badge&logo=postgresql&logoColor=38BDF8)](#) [![Docker](https://img.shields.io/badge/Docker-0B1730?style=for-the-badge&logo=docker&logoColor=38BDF8)](#)
 
 </div>
 
@@ -38,7 +33,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 ## ◆ stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,express,prisma,postgres,mysql,mongodb,docker,githubactions,git,tailwind&theme=dark" alt="Stack principal"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,express,prisma,postgres,mysql,mongodb,docker,githubactions,tailwind&theme=dark" alt="Stack principal"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -103,12 +98,12 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 ## ◆ métricas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mau6987&show_icons=true&hide_border=true&bg_color=0B1730&title_color=38BDF8&icon_color=22D3EE&text_color=93A7C4&count_private=true&locale=es&rank_icon=github" alt="Estadísticas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mau6987&show_icons=true&hide_border=true&bg_color=0B1730&title_color=38BDF8&icon_color=22D3EE&text_color=93A7C4&count_private=true&locale=es" alt="Estadísticas"/>
   <img height="165" src="https://streak-stats.demolab.com?user=Mau6987&hide_border=true&background=0B1730&ring=38BDF8&fire=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=93A7C4&dates=64748B&locale=es" alt="Racha"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau6987&layout=compact&hide_border=true&bg_color=0B1730&title_color=38BDF8&text_color=93A7C4&locale=es&hide=html,css,ejs&langs_count=8" alt="Lenguajes"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau6987&layout=compact&hide_border=true&bg_color=0B1730&title_color=38BDF8&text_color=93A7C4&locale=es&hide=html,css,ejs&langs_count=8&exclude_repo=mi-backendsecond,reactvolt,mi-backend,jenn-back-reac,jenn-front,reactvoltf" alt="Lenguajes"/>
 </div>
 
 <div align="center">
