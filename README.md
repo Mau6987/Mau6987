@@ -33,7 +33,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 ## ◆ stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,nestjs,py,fastapi,flutter,dart,prisma,postgres,mongodb,redis,docker,githubactions&theme=dark" alt="Stack principal"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,nestjs,py,fastapi,flutter,prisma,postgres,mongodb,redis,docker,githubactions&theme=dark" alt="Stack principal"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
