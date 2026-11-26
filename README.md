@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-0B1730?style=for-the-badge&logo=typescript&logoColor=38BDF8)](#) [![React](https://img.shields.io/badge/React-0B1730?style=for-the-badge&logo=react&logoColor=38BDF8)](#) [![Next.js](https://img.shields.io/badge/Next.js-0B1730?style=for-the-badge&logo=next.js&logoColor=38BDF8)](#) [![NestJS](https://img.shields.io/badge/NestJS-0B1730?style=for-the-badge&logo=nestjs&logoColor=38BDF8)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-0B1730?style=for-the-badge&logo=fastapi&logoColor=38BDF8)](#) [![Flutter](https://img.shields.io/badge/Flutter-0B1730?style=for-the-badge&logo=flutter&logoColor=38BDF8)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1730?style=for-the-badge&logo=postgresql&logoColor=38BDF8)](#) [![Docker](https://img.shields.io/badge/Docker-0B1730?style=for-the-badge&logo=docker&logoColor=38BDF8)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0B1730?style=for-the-badge&logo=typescript&logoColor=38BDF8)](#) [![React](https://img.shields.io/badge/React-0B1730?style=for-the-badge&logo=react&logoColor=38BDF8)](#) [![Next.js](https://img.shields.io/badge/Next.js-0B1730?style=for-the-badge&logo=next.js&logoColor=38BDF8)](#) [![NestJS](https://img.shields.io/badge/NestJS-0B1730?style=for-the-badge&logo=nestjs&logoColor=38BDF8)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-0B1730?style=for-the-badge&logo=fastapi&logoColor=38BDF8)](#) [![Flutter](https://img.shields.io/badge/Flutter-0B1730?style=for-the-badge&logo=flutter&logoColor=38BDF8)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1730?style=for-the-badge&logo=postgresql&logoColor=38BDF8)](#)
 
 </div>
 
@@ -15,13 +15,14 @@
 
 ```ts
 const mau = {
+  nombre: "Mauricio Arcani",
   rol: "Full Stack Developer",
   foco: ["apps web", "apps móviles", "APIs REST", "dashboards"],
-  frontend: ["React", "Next.js", "Angular 20", "TypeScript", "Tailwind", "shadcn/ui"],
-  backend: ["Node.js", "Express", "NestJS", "FastAPI", "Prisma", "SQLAlchemy"],
-  datos: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  movil: ["React Native", "Expo", "Flutter"],
-  devops: ["Docker", "GitHub Actions", "Dokploy", "PWA"],
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+  backend: ["Node.js", "NestJS", "FastAPI"],
+  datos: ["PostgreSQL", "MongoDB", "Redis"],
+  movil: ["Flutter", "React Native"],
+  devops: ["Docker", "GitHub Actions"],
   practicas: ["tipado estricto", "validación con Zod", "JWT + Helmet", "RLS en PostgreSQL", "CI/CD"],
 } satisfies Profile;
 ```
@@ -33,7 +34,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 ## ◆ stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,nestjs,py,fastapi,flutter,prisma,postgres,mongodb,redis,docker,githubactions&theme=dark" alt="Stack principal"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,py,fastapi,flutter,postgres,redis,docker&theme=dark" alt="Stack principal"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -63,8 +64,8 @@ El más completo es **MoneyMap**: un SaaS de finanzas personales con app móvil,
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Mau6987/rutacheck-case-study">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=rutacheck-case-study&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="rutacheck-case-study"/>
+      <a href="https://github.com/Mau6987/rutacheck">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=rutacheck&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="rutacheck"/>
       </a>
     </td>
   </tr>
@@ -100,7 +101,7 @@ El más completo es **MoneyMap**: un SaaS de finanzas personales con app móvil,
 | **[moneymap-app](https://github.com/Mau6987/moneymap-app)** | App iOS/Android/web de finanzas personales: gastos e ingresos en segundos, Safe to Spend, metas y presupuestos | Flutter, Riverpod, go_router, Firebase, Maestro |
 | **[moneymap-web](https://github.com/Mau6987/moneymap-web)** | Panel web del mismo producto, con cliente generado desde el contrato OpenAPI | Next.js, TypeScript, Tailwind, openapi-fetch, Vitest, Docker |
 | **[moneymap-back](https://github.com/Mau6987/moneymap-back)** | API con CQRS modular, RLS en PostgreSQL, jobs en segundo plano y registro por voz con IA propia | FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Redis |
-| **[rutacheck-case-study](https://github.com/Mau6987/rutacheck-case-study)** | Caso de estudio de RutaCheck: panel de supervisión de visitadores con GPS en vivo y alertas antifraude (código privado) | React, TanStack Router/Query, Tailwind, Zod, Leaflet, NestJS, PostgreSQL |
+| **[rutacheck](https://github.com/Mau6987/rutacheck)** | Panel de supervisión de visitadores con GPS en vivo y alertas antifraude (caso de estudio; el código es privado) | React, TanStack Router/Query, Tailwind, Zod, Leaflet, NestJS, PostgreSQL |
 | **[jenn-front](https://github.com/Mau6987/jenn-front) + [jenn-back-reac](https://github.com/Mau6987/jenn-back-reac)** | Plataforma de gestión deportiva con roles, dashboards, gráficas, reportes PDF y notificaciones en tiempo real | Next.js, MUI, Chakra, Pusher, Express, Sequelize, PostgreSQL, JWT, Cloudinary |
 | **[SISPINOS](https://github.com/Mau6987/SISPINOS)** | PWA de gestión que funciona offline, con gráficas y exportación de reportes | Next.js, Tailwind, Radix UI, Workbox, Chart.js |
 | **[frontendSistemaIntegrado](https://github.com/Mau6987/frontendSistemaIntegrado)** | SPA de sistema integrado con reportes y soporte instalable | React, Vite, MUI, Bootstrap, PWA, jsPDF |
@@ -122,8 +123,8 @@ El más completo es **MoneyMap**: un SaaS de finanzas personales con app móvil,
 
 Buena parte de mi trabajo vive en repositorios privados:
 
-- **RutaCheck** — panel de supervisión de visitadores farmacéuticos: KPIs, GPS en vivo, historial de rutas, turnos y alertas antifraude. **React, TanStack Router/Query, Tailwind, Leaflet, NestJS, PostgreSQL.** → [caso de estudio](https://github.com/Mau6987/rutacheck-case-study)
-- **Automatización de pedidos** para una cadena de farmacias: API **NestJS** que expone PostgREST sobre **PostgreSQL** y dispara webhooks a **n8n**, con JWT y Docker. → [versión de portafolio](https://github.com/Mau6987/zurich-reqs-dashboard-backend)
+- **RutaCheck** — panel de supervisión de visitadores farmacéuticos: KPIs, GPS en vivo, historial de rutas, turnos y alertas antifraude. **React, TanStack Router/Query, Tailwind, Leaflet, NestJS, PostgreSQL.** → [rutacheck](https://github.com/Mau6987/rutacheck) (caso de estudio)
+- **Automatización de pedidos** para una cadena de farmacias: API **NestJS** que expone PostgREST sobre **PostgreSQL** y dispara webhooks a **n8n**, con JWT y Docker. → [pharmacy-orders-automation](https://github.com/Mau6987/pharmacy-orders-automation) (versión de portafolio)
 - Sistemas de inventario/ERP, apps de campo con geolocalización y dashboards operativos con **React Native, Prisma y GitHub Actions**.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -132,12 +133,11 @@ Buena parte de mi trabajo vive en repositorios privados:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mau6987-0B1730?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Mau6987)
+**Mauricio Arcani** · Full Stack Developer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mau6987-0B1730?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Mau6987) [![Email](https://img.shields.io/badge/mau6987@gmail.com-0B1730?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:mau6987@gmail.com) [![WhatsApp](https://img.shields.io/badge/%2B591%2071782708-0B1730?style=for-the-badge&logo=whatsapp&logoColor=38BDF8)](https://wa.me/59171782708)
 <!-- LinkedIn: agrega tu URL y descomenta
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1730?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/TU-USUARIO)
--->
-<!-- Email: agrega tu correo y descomenta
-[![Email](https://img.shields.io/badge/Email-0B1730?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:TU@CORREO.com)
 -->
 
 <br/>
