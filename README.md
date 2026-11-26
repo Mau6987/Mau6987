@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-0B1730?style=for-the-badge&logo=typescript&logoColor=38BDF8)](#) [![React](https://img.shields.io/badge/React-0B1730?style=for-the-badge&logo=react&logoColor=38BDF8)](#) [![Next.js](https://img.shields.io/badge/Next.js-0B1730?style=for-the-badge&logo=next.js&logoColor=38BDF8)](#) [![NestJS](https://img.shields.io/badge/NestJS-0B1730?style=for-the-badge&logo=nestjs&logoColor=38BDF8)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1730?style=for-the-badge&logo=postgresql&logoColor=38BDF8)](#) [![Docker](https://img.shields.io/badge/Docker-0B1730?style=for-the-badge&logo=docker&logoColor=38BDF8)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0B1730?style=for-the-badge&logo=typescript&logoColor=38BDF8)](#) [![React](https://img.shields.io/badge/React-0B1730?style=for-the-badge&logo=react&logoColor=38BDF8)](#) [![Next.js](https://img.shields.io/badge/Next.js-0B1730?style=for-the-badge&logo=next.js&logoColor=38BDF8)](#) [![NestJS](https://img.shields.io/badge/NestJS-0B1730?style=for-the-badge&logo=nestjs&logoColor=38BDF8)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-0B1730?style=for-the-badge&logo=fastapi&logoColor=38BDF8)](#) [![Flutter](https://img.shields.io/badge/Flutter-0B1730?style=for-the-badge&logo=flutter&logoColor=38BDF8)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1730?style=for-the-badge&logo=postgresql&logoColor=38BDF8)](#) [![Docker](https://img.shields.io/badge/Docker-0B1730?style=for-the-badge&logo=docker&logoColor=38BDF8)](#)
 
 </div>
 
@@ -18,11 +18,11 @@ const mau = {
   rol: "Full Stack Developer",
   foco: ["apps web", "apps móviles", "APIs REST", "dashboards"],
   frontend: ["React", "Next.js", "Angular 20", "TypeScript", "Tailwind", "shadcn/ui"],
-  backend: ["Node.js", "Express", "NestJS", "Prisma", "Sequelize"],
-  datos: ["PostgreSQL", "MySQL", "MongoDB"],
-  movil: ["React Native", "Expo"],
-  devops: ["Docker", "GitHub Actions", "PWA"],
-  practicas: ["tipado estricto", "validación con Zod", "JWT + Helmet", "CI/CD"],
+  backend: ["Node.js", "Express", "NestJS", "FastAPI", "Prisma", "SQLAlchemy"],
+  datos: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  movil: ["React Native", "Expo", "Flutter"],
+  devops: ["Docker", "GitHub Actions", "Dokploy", "PWA"],
+  practicas: ["tipado estricto", "validación con Zod", "JWT + Helmet", "RLS en PostgreSQL", "CI/CD"],
 } satisfies Profile;
 ```
 
@@ -33,36 +33,50 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 ## ◆ stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,express,prisma,postgres,mysql,mongodb,docker,githubactions,tailwind&theme=dark" alt="Stack principal"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,nestjs,express,py,fastapi,flutter,dart,prisma,postgres,mysql,mongodb,redis,docker,githubactions,tailwind&theme=dark" alt="Stack principal"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ◆ proyectos
 
+El más completo es **MoneyMap**: un SaaS de finanzas personales con app móvil, web y API, cada uno en su propio repositorio.
+
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Mau6987/rutacheck-case-study">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=rutacheck-case-study&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="rutacheck-case-study"/>
+      <a href="https://github.com/Mau6987/moneymap-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=moneymap-app&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="moneymap-app"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Mau6987/jenn-front">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=jenn-front&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="jenn-front"/>
+      <a href="https://github.com/Mau6987/moneymap-web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=moneymap-web&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="moneymap-web"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Mau6987/SISPINOS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=SISPINOS&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="SISPINOS"/>
+      <a href="https://github.com/Mau6987/moneymap-back">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=moneymap-back&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="moneymap-back"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Mau6987/frontendSistemaIntegrado">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=frontendSistemaIntegrado&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="frontendSistemaIntegrado"/>
+      <a href="https://github.com/Mau6987/rutacheck-case-study">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=rutacheck-case-study&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="rutacheck-case-study"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mau6987/jenn-front">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=jenn-front&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="jenn-front"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mau6987/SISPINOS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=SISPINOS&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="SISPINOS"/>
       </a>
     </td>
   </tr>
@@ -83,6 +97,9 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 
 | Proyecto | Qué resuelve | Stack |
 |---|---|---|
+| **[moneymap-app](https://github.com/Mau6987/moneymap-app)** | App iOS/Android/web de finanzas personales: gastos e ingresos en segundos, Safe to Spend, metas y presupuestos | Flutter, Riverpod, go_router, Firebase, Maestro |
+| **[moneymap-web](https://github.com/Mau6987/moneymap-web)** | Panel web del mismo producto, con cliente generado desde el contrato OpenAPI | Next.js, TypeScript, Tailwind, openapi-fetch, Vitest, Docker |
+| **[moneymap-back](https://github.com/Mau6987/moneymap-back)** | API con CQRS modular, RLS en PostgreSQL, jobs en segundo plano y registro por voz con IA propia | FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Redis |
 | **[rutacheck-case-study](https://github.com/Mau6987/rutacheck-case-study)** | Caso de estudio de RutaCheck: panel de supervisión de visitadores con GPS en vivo y alertas antifraude (código privado) | React, TanStack Router/Query, Tailwind, Zod, Leaflet, NestJS, PostgreSQL |
 | **[jenn-front](https://github.com/Mau6987/jenn-front) + [jenn-back-reac](https://github.com/Mau6987/jenn-back-reac)** | Plataforma de gestión deportiva con roles, dashboards, gráficas, reportes PDF y notificaciones en tiempo real | Next.js, MUI, Chakra, Pusher, Express, Sequelize, PostgreSQL, JWT, Cloudinary |
 | **[SISPINOS](https://github.com/Mau6987/SISPINOS)** | PWA de gestión que funciona offline, con gráficas y exportación de reportes | Next.js, Tailwind, Radix UI, Workbox, Chart.js |
@@ -106,7 +123,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 Buena parte de mi trabajo vive en repositorios privados:
 
 - **RutaCheck** — panel de supervisión de visitadores farmacéuticos: KPIs, GPS en vivo, historial de rutas, turnos y alertas antifraude. **React, TanStack Router/Query, Tailwind, Leaflet, NestJS, PostgreSQL.** → [caso de estudio](https://github.com/Mau6987/rutacheck-case-study)
-- **Automatización de pedidos** para una cadena de farmacias: API **NestJS** que expone PostgREST sobre **PostgreSQL** y dispara webhooks a **n8n**, con JWT y Docker.
+- **Automatización de pedidos** para una cadena de farmacias: API **NestJS** que expone PostgREST sobre **PostgreSQL** y dispara webhooks a **n8n**, con JWT y Docker. → [versión de portafolio](https://github.com/Mau6987/zurich-reqs-dashboard-backend)
 - Sistemas de inventario/ERP, apps de campo con geolocalización y dashboards operativos con **React Native, Prisma y GitHub Actions**.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
