@@ -44,30 +44,35 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/Mau6987/rutacheck-case-study">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=rutacheck-case-study&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="rutacheck-case-study"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/Mau6987/jenn-front">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=jenn-front&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="jenn-front"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Mau6987/SISPINOS">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=SISPINOS&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="SISPINOS"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Mau6987/frontendSistemaIntegrado">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=frontendSistemaIntegrado&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="frontendSistemaIntegrado"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Mau6987/tienda-militar-front">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=tienda-militar-front&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="tienda-militar-front"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/Mau6987/movil-back-pos">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mau6987&repo=movil-back-pos&bg_color=0B1730&border_color=1E3A8A&title_color=38BDF8&text_color=93A7C4&icon_color=22D3EE" alt="movil-back-pos"/>
       </a>
@@ -78,6 +83,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 
 | Proyecto | Qué resuelve | Stack |
 |---|---|---|
+| **[rutacheck-case-study](https://github.com/Mau6987/rutacheck-case-study)** | Caso de estudio de RutaCheck: panel de supervisión de visitadores con GPS en vivo y alertas antifraude (código privado) | React, TanStack Router/Query, Tailwind, Zod, Leaflet, NestJS, PostgreSQL |
 | **[jenn-front](https://github.com/Mau6987/jenn-front) + [jenn-back-reac](https://github.com/Mau6987/jenn-back-reac)** | Plataforma de gestión deportiva con roles, dashboards, gráficas, reportes PDF y notificaciones en tiempo real | Next.js, MUI, Chakra, Pusher, Express, Sequelize, PostgreSQL, JWT, Cloudinary |
 | **[SISPINOS](https://github.com/Mau6987/SISPINOS)** | PWA de gestión que funciona offline, con gráficas y exportación de reportes | Next.js, Tailwind, Radix UI, Workbox, Chart.js |
 | **[frontendSistemaIntegrado](https://github.com/Mau6987/frontendSistemaIntegrado)** | SPA de sistema integrado con reportes y soporte instalable | React, Vite, MUI, Bootstrap, PWA, jsPDF |
@@ -99,7 +105,7 @@ Construyo productos de punta a punta: modelo de datos, API, interfaz y despliegu
 
 Buena parte de mi trabajo vive en repositorios privados:
 
-- **RutaCheck** — panel de supervisión de visitadores farmacéuticos: KPIs, GPS en vivo, historial de rutas, turnos y alertas antifraude. **React, TanStack Router/Query, Tailwind, Leaflet, NestJS, PostgreSQL.**
+- **RutaCheck** — panel de supervisión de visitadores farmacéuticos: KPIs, GPS en vivo, historial de rutas, turnos y alertas antifraude. **React, TanStack Router/Query, Tailwind, Leaflet, NestJS, PostgreSQL.** → [caso de estudio](https://github.com/Mau6987/rutacheck-case-study)
 - **Automatización de pedidos** para una cadena de farmacias: API **NestJS** que expone PostgREST sobre **PostgreSQL** y dispara webhooks a **n8n**, con JWT y Docker.
 - Sistemas de inventario/ERP, apps de campo con geolocalización y dashboards operativos con **React Native, Prisma y GitHub Actions**.
 
