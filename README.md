@@ -125,7 +125,7 @@ Buena parte de mi trabajo vive en repositorios privados:
 
 - **RutaCheck** — panel de supervisión de visitadores farmacéuticos: KPIs, GPS en vivo, historial de rutas, turnos y alertas antifraude. **React, TanStack Router/Query, Tailwind, Leaflet, NestJS, PostgreSQL.** → [rutacheck](https://github.com/Mau6987/rutacheck) (caso de estudio)
 - **Automatización de pedidos** para una cadena de farmacias: API **NestJS** que expone PostgREST sobre **PostgreSQL** y dispara webhooks a **n8n**, con JWT y Docker. → [pharmacy-orders-automation](https://github.com/Mau6987/pharmacy-orders-automation) (versión de portafolio)
-- Sistemas de inventario/ERP, apps de campo con geolocalización y dashboards operativos con **React Native, Prisma y GitHub Actions**.
+- Sistemas de inventario/ERP, apps de campo con geolocalización y dashboards operativos con **React Native, Prisma y GitHub Actions** — el más representativo es [tienda-militar-front](https://github.com/Mau6987/tienda-militar-front) + [tienda-militar-back](https://github.com/Mau6987/tienda-militar-back).
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
